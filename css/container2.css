@@ -1,5 +1,28 @@
 .container-2-geral {
-    margin-top: 210px;
-    height: 800px;
-    background-color: rgb(0, 0, 0);
+    margin-top: 300px;
+    gap: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+.h1-detalhe {
+    font-size: 50px;
+    color: #571AC1;
+    margin-bottom: 30px;
+}
+
+.p-detalhe {
+    font-size: 20px;
+}
+
+.foto-bloco2 {
+    transition: .8s;
+}   
+
+.foto-bloco2:hover {
+    transform: scale(110%);
+    transition: .8s;
+}
+
+  

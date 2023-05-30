@@ -16,12 +16,30 @@
 .container-1-bloco1 h1 {
     color: #571AC1;
     margin-bottom: 30px;
-    font-size: 70px;
-    font-style: oblique;
 }
 
-.container-1-bloco1 p {
-    font-size: 18px;
+.h1-feeding {
+    font-size: 70px;
+}
+
+.h1-juntos {
+    margin-top: 30px;
+    font-size: 55px;
+
+}
+
+/* PALAVRAS DESTACADAS */
+.p-destacado {
+    color: black;
+}
+
+.p-feeding {
+    font-size: 22px;
+    margin-bottom: 70px;
+}
+
+.p-juntos {
+    font-size: 20px;
 }
 
 .container-1-bloco2 img{
@@ -29,4 +47,10 @@
     justify-content: center;
     width: 110%;
     border-radius: 80px 10px;
+    transition: .8s;
+}
+
+.container-1-bloco2 img:hover {
+    transform: scale(110%);
+    transform: .8s;
 }

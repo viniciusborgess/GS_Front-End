@@ -26,6 +26,12 @@ nav {
     background-color: #571AC1;
     padding: 20px;
     border-radius: 70px 20px;
+    transition: .8s;
+}
+
+.nav-itens:hover {
+    transform: scale(103%);
+    transition: .8s;
 }
 
 .nav-itens>li>a {
@@ -37,7 +43,7 @@ nav {
 }
 
 .nav-itens>li>:hover {
-    color: #bebaba;
+    color: #cccccc;
     transition: .6s;
 }
 
