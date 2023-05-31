@@ -23,7 +23,7 @@ nav {
 .nav-itens {
     list-style: none;
     display: flex;
-    background-color: #571AC1;
+    background-color: #5907e7;
     padding: 20px;
     border-radius: 70px 20px;
     transition: .8s;
@@ -54,13 +54,13 @@ nav {
     font-size: 17px;
     border: none;
     color: #ffff;
-    background-color: #571AC1;
+    background-color: #5907e7;
     cursor: pointer;
     transition: 1s ;
 }
 
 .login:hover {
-    background-color:#571AC1;
+    background-color:#5907e7;
     transition: 1s;
     transform: scale(110%);
 }
