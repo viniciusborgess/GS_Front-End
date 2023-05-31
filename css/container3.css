@@ -1,28 +1,31 @@
-.container-2-geral {
-    margin-top: 300px;
-    gap: 400px;
+.container-3-geral {
+    margin-top: 250px;
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 300px;
 }
 
-.h1-detalhe {
+.h1-publico {
     font-size: 40px;
     color: #571AC1;
     margin-bottom: 30px;
 }
 
-.p-detalhe {
+
+.p-publico {
     font-size: 20px;
+    margin-bottom: 50px;
 }
 
-.foto-bloco2 {
+
+.foto-bloco3 {
     transition: .8s;
 }   
 
-.foto-bloco2:hover {
+.foto-bloco3:hover {
     transform: scale(110%);
     transition: .8s;
 }
 
-  
+

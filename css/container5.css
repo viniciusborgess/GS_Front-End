@@ -1,0 +1,20 @@
+.container-5-geral {
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 300px;
+}
+
+
+.h1-beneficios {
+    font-size: 40px;
+    color: #571AC1;
+    margin-bottom: 30px;
+}
+
+
+.p-beneficios {
+    font-size: 20px;
+    margin-bottom: 50px;
+}
